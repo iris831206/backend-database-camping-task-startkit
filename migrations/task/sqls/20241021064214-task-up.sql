@@ -133,7 +133,6 @@ VALUES (
 	WHERE name = '瑜伽')
 );
 
-
 -- Q太郎
 INSERT INTO "COACH_LINK_SKILL" (coach_id, skill_id)
 VALUES (
